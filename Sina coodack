@@ -1,11 +1,13 @@
 [
   {
     "متن": "گوگل دوحسابه",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/iLm3B/vt/frame"
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/iLm3B/vt/frame",
+    "کد": "No Code"
   },
   {
     "متن": " نوار لودینگ",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/WVQHC/vt/frame"
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/WVQHC/vt/frame",
+    "کد": "No Code"
   },
   {
     "متن": " تقویم و ساعت",
@@ -13,23 +15,27 @@
   },
   {
     "متن": "مترجم زبان ها",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/8sA7q/vt/frame"
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/8sA7q/vt/frame",
+    "کد": "https://translate.google.com/?hl\u003dfa"
   },
   {
     "متن": "ساخت برنامه داستان",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/6DqmB/vt/frame"
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/6DqmB/vt/frame",
+    "کد": "No Code"
   },
   {
     "متن": "عمودی کردن صفحه",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/qJR3W/vt/frame"
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/qJR3W/vt/frame",
+    "کد": "No Code"
   },
   {
     "متن": "تغییر رنگ نوار ها",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/OjYnS/vt/frame"
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/OjYnS/vt/frame",
+    "کد": "No Code"
   },
   {
     "متن": "نمایش شارژ گوشی",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/CRWUA/vt/frame"
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/CRWUA/vt/frame",
+    "کد": "BatteryManager bm \u003d (BatteryManager)getSystemService(BATTERY_SERVICE);\nint batLevel \u003d bm.getIntProperty(BatteryManager.BATTERY_PROPERTY_CAPACITY);\ntextview1.setText(Integer.toString(batLevel));"
   }
 ]
- 
