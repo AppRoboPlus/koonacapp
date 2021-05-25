@@ -37,5 +37,10 @@
     "متن": "نمایش شارژ گوشی",
     "لینک": "https://www.aparat.com/video/video/embed/videohash/CRWUA/vt/frame",
     "کد": "BatteryManager bm \u003d (BatteryManager)getSystemService(BATTERY_SERVICE);\nint batLevel \u003d bm.getIntProperty(BatteryManager.BATTERY_PROPERTY_CAPACITY);\ntextview1.setText(Integer.toString(batLevel));"
+  },
+  {
+    "متن": "ساخت همراه من",
+    "لینک": "https://s18.picofile.com/d/8434629284/5e10b1f0-7796-4114-8c12-ffc223701c53/IMG_20210525_153520_654.mp4",
+    "کد": "https://my.mci.ir/user/login.xhtml"
   }
 ]
